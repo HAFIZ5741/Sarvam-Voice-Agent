@@ -1,0 +1,8 @@
+.env
+*.env
+dialer.py
+__pycache__/
+*.pyc
+.venv/
+*.wav
+*.exe
